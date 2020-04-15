@@ -3,6 +3,7 @@
 ## About
 This repository contains instructions and queries for Soen 363 Data systems class project phase 2.</br> 
 The purpose of this project is to investage NoSQL database systems on a dataset. </br>
+Our NoSQL system was <a href="https://www.mongodb.com/"> MongoDB</a> and the dataset of choice was the <a href="https://www.yelp.com/dataset"> Yelp Open Dataset </a>.</br>
 
 ## Installation
 The installation was conducted on a Virtual Machine running Ubuntu 18.04. </br>
