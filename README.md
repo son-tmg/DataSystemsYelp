@@ -35,7 +35,7 @@ $ mongo
 
 
 ## Loading the Dataset
-Provide your information, agree to Dataset Licence and Download the 9.71 gb datset from https://www.yelp.com/dataset </br>
+Provide your information, agree to Dataset Licence and download the 9.71 gb datset from https://www.yelp.com/dataset </br>
 Once downloaded, unzip download folder into the same directory as the DataSystemsYelp repository. </br>
 
 From the mongo shell, create the YelpData database:
